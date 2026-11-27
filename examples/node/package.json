@@ -1,0 +1,22 @@
+{
+  "name": "x402-transcribe-node-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test_transcribe.test.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "private": "true",
+  "dependencies": {
+    "@x402/evm": "^2.0.0",
+    "@x402/fetch": "^2.0.0",
+    "viem": "^2.21.0"
+  },
+  "devDependencies": {
+    "vitest": "^2.1.0"
+  }
+}
